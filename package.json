@@ -11,5 +11,10 @@
     "next": "9.2.1",
     "react": "16.12.0",
     "react-dom": "16.12.0"
+  },
+  "devDependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "next-workbox-webpack-plugin": "^2.1.1",
+    "webpack-pwa-manifest": "^4.2.0"
   }
 }
